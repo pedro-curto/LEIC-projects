@@ -5,8 +5,17 @@ This repository is an index for the most relevant projects I completed during my
 
 ## Year 3
 ## Semester 2
+[TIL Compiler](https://github.com/pedro-curto/TIL-Compiler) (Course - Compilers)
+- Techonologies: C++, Lex, Yacc, Bison
+
+[CG Project](https://github.com/pedro-curto/CG-Project) (Course - Computer Graphics)
+- Technologies: JavaScript (ThreeJS library) (+ HTML, CSS)
+
 [SD-TupleSpaces](https://github.com/pedro-curto/SD-TupleSpaces) (Course - Distributed Systems)
 - Technologies: Java, Python, gRPC
+
+[HumanaEthica](https://github.com/pedro-curto/HumanaEthica) (Course - SoftwareEngineering)
+- Technologies: SpringBoot, Vue, Groovy
 
 [RC Auction](https://github.com/pedro-curto/Auction-Simulator) (Course - Computer Networks)
 - Technologies: C, Makefile
@@ -56,5 +65,6 @@ This repository is an index for the most relevant projects I completed during my
 [Buggy Data Base](https://github.com/pedro-curto/Buggy-Data-Base) (Course - Foundations of Programming)
 - Technologies: Python
 
-
-Missing -- Compilers project; Software Engineering project; Apre Labs; OC Labs
+## Missing
+- Apre Labs
+- OC Labs
