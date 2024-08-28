@@ -20,6 +20,9 @@ This repository is an index for the most relevant projects I completed during my
 [RC Auction](https://github.com/pedro-curto/Auction-Simulator) (Course - Computer Networks)
 - Technologies: C, Makefile
 
+[Apre Homeworks](https://github.com/pedro-curto/Apre-HWs) (Course - Machine learning)
+- Technologies: Jupyter notebook, ML concepts
+
 ## Semester 1
 
 [TODO]
@@ -66,5 +69,4 @@ This repository is an index for the most relevant projects I completed during my
 - Technologies: Python
 
 ## Missing
-- Apre Labs
 - OC Labs
