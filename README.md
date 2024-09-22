@@ -14,18 +14,22 @@ This repository is an index for the most relevant projects I completed during my
 [SD-TupleSpaces](https://github.com/pedro-curto/SD-TupleSpaces) (Course - Distributed Systems)
 - Technologies: Java, Python, gRPC
 
-[HumanaEthica](https://github.com/pedro-curto/HumanaEthica) (Course - SoftwareEngineering)
+[HumanaEthica](https://github.com/pedro-curto/HumanaEthica) (Course - Software Engineering)
 - Technologies: SpringBoot, Vue, Groovy
+
+## Semester 1
 
 [RC Auction](https://github.com/pedro-curto/Auction-Simulator) (Course - Computer Networks)
 - Technologies: C, Makefile
 
+[AMS Project](https://github.com/pedro-curto/AMS-Project) (Course - Systems Analysis and Modeling)
+- Technologies: ArchiMate, BPMN, Enterprise Architect
+
 [Apre Homeworks](https://github.com/pedro-curto/Apre-HWs) (Course - Machine learning)
 - Technologies: Jupyter notebook, ML concepts
 
-## Semester 1
-
-[TODO]
+[OC Labs](https://github.com/pedro-curto/OC-Labs) (Course - Computer Organization)
+- Technologies: C, Makefile
 
 ## Year 2
 ## Semester 2
@@ -67,6 +71,3 @@ This repository is an index for the most relevant projects I completed during my
 
 [Buggy Data Base](https://github.com/pedro-curto/Buggy-Data-Base) (Course - Foundations of Programming)
 - Technologies: Python
-
-## Missing
-- OC Labs
